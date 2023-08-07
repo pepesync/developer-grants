@@ -26,7 +26,7 @@ We want to support projects that fill ecosystem gaps by building tools and/or se
 
 ## How to apply?
 
-Create a new issue using the ["Grant Application"](https://github.com/onflow/developer-grants/issues/new?assignees=alxflw&labels=in+review&template=grant-application.md&title=) issue template. Make sure to fill out all the details!
+Create a new issue using the ["Grant Application (Coming Soon)"](https://pepesync.xyz) issue template. Make sure to fill out all the details!
 
 
 
