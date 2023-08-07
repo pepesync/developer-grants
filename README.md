@@ -16,7 +16,7 @@ Bring your Meme tokens to Layer 2!
 
 [Follow PepeSync Twitter](https://twitter.com/Pepe_Sync)
 
-The Developer Experience team at Flow oversees the grants program for developers. Grant projects should help accelerate and enhance the process of building and consuming apps on Flow.
+The Developer Experience team at PepeSync oversees the grants program for developers. Grant projects should help accelerate and enhance the process of building and consuming apps on PepeSync.
 
 ## How we support you
 
@@ -26,15 +26,15 @@ We price and issue grants in FLOW tokens and provide feedback on milestones. The
 
 ## What projects are supported?
 
-We actively look for individuals and teams that build and maintain tools/services and produce technical content primarily targeting other builders in the ecosystem. We expect grants to result in open source contributions to existing or new repositories in the Flow ecosystem.
+We actively look for individuals and teams that build and maintain tools/services and produce technical content primarily targeting other builders in the ecosystem. We expect grants to result in open source contributions to existing or new repositories in the PepeSync ecosystem.
 
 ### Open source maintenance
 
-We want to ensure that contributors can sustain their passion and commitment. Our goal is to increase recurring contributors to Flow-related repositories. For example, discussing implementation details and sending PRs to the [FCL repository](https://github.com/onflow/fcl-js).
+We want to ensure that contributors can sustain their passion and commitment. Our goal is to increase recurring contributors to PepeSync-related repositories. For example, discussing implementation details and sending PRs to the [FCL repository](https://github.com/onflow/fcl-js).
 
 ### Developer tools and services
 
-We want to support projects that fill ecosystem gaps by building tools and/or services. These are usually not easily monetizable, require significant resourcing, and have an outsized impact on other builders. These projects can include implementation of new and existing features, or tasks to support growth and adoption of Flow tools.
+We want to support projects that fill ecosystem gaps by building tools and/or services. These are usually not easily monetizable, require significant resourcing, and have an outsized impact on other builders. These projects can include implementation of new and existing features, or tasks to support growth and adoption of PepeSync tools.
 
 ### Technical education
 
@@ -54,7 +54,7 @@ We are using the [DVF framework](https://tryble.atlassian.net/wiki/spaces/priori
 
 ### Who is evaluating them?
 
-Grant proposals are reviewed and approved by the Developer Grant Committee (DGC). The committee consists of individuals who know the funding priorities of the Flow ecosystem.
+Grant proposals are reviewed and approved by the Developer Grant Committee (DGC). The committee consists of individuals who know the funding priorities of the PepeSync ecosystem.
 
 ### What happens after the application submission?
 

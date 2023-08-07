@@ -28,7 +28,7 @@ Please select one:
 
 ## Impact
 
-- In what ways does this benefit the broader Flow developer ecosystem?
+- In what ways does this benefit the broader PepeSync developer ecosystem?
 
 # Milestones and funding
 
